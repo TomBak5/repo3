@@ -1,1 +1,1 @@
-public void sakyti(){ console.writeline("labas");}
+public void pateikti(){ console.writeline("labas");}
